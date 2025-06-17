@@ -1,0 +1,301 @@
+feedback_id,learner_id,course_id,comments,rating,sentiment_tag
+1,570,18,Terrible experience.,1,negative
+2,1807,14,Content was outdated.,2,negative
+3,333,13,Didn't learn anything useful.,1,positive
+4,1233,14,Very informative.,4,positive
+5,470,11,Very informative.,4,positive
+6,1376,13,Hard to follow.,2,negative
+7,440,13,Neutral feelings.,3,neutral
+8,1383,14,Outstanding content!,5,positive
+9,1607,17,Poor content and delivery.,1,negative
+10,1037,16,Felt like a waste of time.,1,negative
+11,633,16,Clear explanations.,4,neutral
+12,541,12,Highly recommend.,5,positive
+13,1715,18,Felt like a waste of time.,1,negative
+14,598,18,Didn't learn anything useful.,1,positive
+15,1096,15,Didn't learn anything useful.,1,positive
+16,1295,12,Excellent course!,5,positive
+17,1386,17,Clear explanations.,4,neutral
+18,446,16,Outstanding content!,5,positive
+19,1311,15,Outstanding content!,5,positive
+20,964,16,Great learning experience.,5,positive
+21,1160,17,Content was outdated.,2,negative
+22,1203,12,Needs improvement.,2,neutral
+23,1599,17,Well-paced and structured.,4,neutral
+24,1990,15,Excellent course!,5,positive
+25,653,10,Poor content and delivery.,1,negative
+26,1700,15,Clear explanations.,4,neutral
+27,1692,18,Outstanding content!,5,positive
+28,1494,13,Very informative.,4,positive
+29,1381,10,Excellent course!,5,positive
+30,126,11,Practical tips included.,4,neutral
+31,1980,14,Needs improvement.,2,neutral
+32,1646,19,Well-paced and structured.,4,neutral
+33,1902,17,Average course.,3,negative
+34,482,20,Didn't learn anything useful.,1,positive
+35,639,11,Very informative.,4,positive
+36,1511,13,Loved the instructor!,5,positive
+37,280,16,Well-paced and structured.,4,neutral
+38,1741,15,Could be better.,3,positive
+39,1702,15,Excellent course!,5,positive
+40,343,18,Content was outdated.,2,negative
+41,464,11,Very informative.,4,positive
+42,984,15,Could be better.,3,positive
+43,962,17,Well-paced and structured.,4,neutral
+44,188,14,Felt like a waste of time.,1,negative
+45,1185,15,Neutral feelings.,3,neutral
+46,652,14,Didn't learn anything useful.,1,positive
+47,788,16,Needs improvement.,2,neutral
+48,721,14,It was okay.,3,positive
+49,1429,17,Would not recommend.,1,neutral
+50,397,17,Poor content and delivery.,1,negative
+51,1551,19,Some parts were good.,3,positive
+52,1405,15,Not very engaging.,2,negative
+53,563,20,Very informative.,4,positive
+54,784,15,Too fast and unclear.,2,positive
+55,1667,16,Excellent course!,5,positive
+56,1537,11,Highly recommend.,5,positive
+57,1875,10,Loved the instructor!,5,positive
+58,1790,17,Some parts were good.,3,positive
+59,170,20,Didn't learn anything useful.,1,positive
+60,733,15,Excellent course!,5,positive
+61,1820,14,It was okay.,3,positive
+62,144,18,Clear explanations.,4,neutral
+63,1262,16,Could be better.,3,positive
+64,919,12,Helpful examples.,4,neutral
+65,1730,15,Content was outdated.,2,negative
+66,1352,11,Could be better.,3,positive
+67,191,18,Highly recommend.,5,positive
+68,1792,16,Didn't learn anything useful.,1,positive
+69,1961,17,Hard to follow.,2,negative
+70,1803,10,Excellent course!,5,positive
+71,486,13,Felt like a waste of time.,1,negative
+72,1123,10,Not very engaging.,2,negative
+73,153,16,Helpful examples.,4,neutral
+74,858,12,Clear explanations.,4,neutral
+75,471,20,Too fast and unclear.,2,positive
+76,1379,13,Hard to follow.,2,negative
+77,1427,20,Excellent course!,5,positive
+78,1436,17,Very informative.,4,positive
+79,892,19,Would not recommend.,1,neutral
+80,1885,16,Not very engaging.,2,negative
+81,1847,12,Average course.,3,negative
+82,1653,10,Neutral feelings.,3,neutral
+83,1533,11,Poor content and delivery.,1,negative
+84,367,12,Practical tips included.,4,neutral
+85,512,13,Terrible experience.,1,negative
+86,749,20,Neutral feelings.,3,neutral
+87,938,19,Neutral feelings.,3,neutral
+88,1320,12,Great learning experience.,5,positive
+89,1786,10,Clear explanations.,4,neutral
+90,728,15,Outstanding content!,5,positive
+91,1967,12,Poor content and delivery.,1,negative
+92,1988,13,Outstanding content!,5,positive
+93,597,19,Outstanding content!,5,positive
+94,542,11,Clear explanations.,4,neutral
+95,494,20,Hard to follow.,2,negative
+96,368,13,Terrible experience.,1,negative
+97,1455,13,Content was outdated.,2,negative
+98,1788,12,Neutral feelings.,3,neutral
+99,617,17,Didn't learn anything useful.,1,positive
+100,187,20,Highly recommend.,5,positive
+101,589,18,Neutral feelings.,3,neutral
+102,705,15,Could be better.,3,positive
+103,1858,15,Loved the instructor!,5,positive
+104,272,12,Excellent course!,5,positive
+105,674,16,Poor content and delivery.,1,negative
+106,1748,12,Loved the instructor!,5,positive
+107,866,11,It was okay.,3,positive
+108,958,19,Terrible experience.,1,negative
+109,884,15,Highly recommend.,5,positive
+110,609,15,Helpful examples.,4,neutral
+111,1147,12,Terrible experience.,1,negative
+112,961,11,Poor content and delivery.,1,negative
+113,577,13,Highly recommend.,5,positive
+114,228,19,Excellent course!,5,positive
+115,1484,11,Loved the instructor!,5,positive
+116,1711,12,Neutral feelings.,3,neutral
+117,516,20,Outstanding content!,5,positive
+118,1116,13,Terrible experience.,1,negative
+119,1998,20,Poor content and delivery.,1,negative
+120,215,10,Didn't learn anything useful.,1,positive
+121,1900,12,It was okay.,3,positive
+122,1895,14,Not very engaging.,2,negative
+123,1338,18,Neutral feelings.,3,neutral
+124,1252,18,Terrible experience.,1,negative
+125,1407,20,Content was outdated.,2,negative
+126,1173,11,Average course.,3,negative
+127,490,15,Excellent course!,5,positive
+128,814,10,Great learning experience.,5,positive
+129,547,19,Content was outdated.,2,negative
+130,719,17,Not very engaging.,2,negative
+131,754,17,Could be better.,3,positive
+132,1029,13,Poor content and delivery.,1,negative
+133,161,16,Helpful examples.,4,neutral
+134,770,20,Needs improvement.,2,neutral
+135,736,11,Felt like a waste of time.,1,negative
+136,1146,11,Too fast and unclear.,2,positive
+137,926,18,It was okay.,3,positive
+138,1739,11,Loved the instructor!,5,positive
+139,282,13,Highly recommend.,5,positive
+140,959,19,Too fast and unclear.,2,positive
+141,1068,11,Could be better.,3,positive
+142,1056,15,Helpful examples.,4,neutral
+143,554,16,Practical tips included.,4,neutral
+144,777,20,Practical tips included.,4,neutral
+145,1100,16,Terrible experience.,1,negative
+146,354,17,Very informative.,4,positive
+147,1171,13,Very informative.,4,positive
+148,104,20,Poor content and delivery.,1,negative
+149,149,19,Could be better.,3,positive
+150,899,16,Excellent course!,5,positive
+151,266,13,Poor content and delivery.,1,negative
+152,413,14,Helpful examples.,4,neutral
+153,1197,19,Loved the instructor!,5,positive
+154,1518,12,Highly recommend.,5,positive
+155,1945,17,Needs improvement.,2,neutral
+156,1143,16,Content was outdated.,2,negative
+157,1654,17,Could be better.,3,positive
+158,1952,18,Hard to follow.,2,negative
+159,157,18,Needs improvement.,2,neutral
+160,1205,15,Didn't learn anything useful.,1,positive
+161,1939,19,Highly recommend.,5,positive
+162,896,19,Very informative.,4,positive
+163,1055,17,Some parts were good.,3,positive
+164,1609,20,Helpful examples.,4,neutral
+165,1886,15,Great learning experience.,5,positive
+166,1868,10,Hard to follow.,2,negative
+167,459,15,Practical tips included.,4,neutral
+168,382,14,Loved the instructor!,5,positive
+169,1480,14,Average course.,3,negative
+170,185,12,Needs improvement.,2,neutral
+171,995,10,Would not recommend.,1,neutral
+172,1526,10,Excellent course!,5,positive
+173,693,10,Too fast and unclear.,2,positive
+174,1519,11,Felt like a waste of time.,1,negative
+175,794,15,Terrible experience.,1,negative
+176,1557,17,Outstanding content!,5,positive
+177,660,14,Helpful examples.,4,neutral
+178,807,14,Could be better.,3,positive
+179,235,19,Would not recommend.,1,neutral
+180,658,18,Great learning experience.,5,positive
+181,927,16,Not very engaging.,2,negative
+182,1486,19,Terrible experience.,1,negative
+183,715,13,Would not recommend.,1,neutral
+184,1001,15,Poor content and delivery.,1,negative
+185,664,10,Excellent course!,5,positive
+186,582,20,Some parts were good.,3,positive
+187,619,20,Could be better.,3,positive
+188,834,20,Well-paced and structured.,4,neutral
+189,1771,13,Outstanding content!,5,positive
+190,720,15,Well-paced and structured.,4,neutral
+191,1274,15,Some parts were good.,3,positive
+192,1544,18,It was okay.,3,positive
+193,678,15,Needs improvement.,2,neutral
+194,761,16,It was okay.,3,positive
+195,848,11,Well-paced and structured.,4,neutral
+196,1852,10,Too fast and unclear.,2,positive
+197,1385,15,Highly recommend.,5,positive
+198,1010,19,Didn't learn anything useful.,1,positive
+199,1547,10,Terrible experience.,1,negative
+200,385,13,It was okay.,3,positive
+201,1719,10,Poor content and delivery.,1,negative
+202,928,16,Average course.,3,negative
+203,344,18,Could be better.,3,positive
+204,160,11,Hard to follow.,2,negative
+205,1582,20,Average course.,3,negative
+206,306,13,Didn't learn anything useful.,1,positive
+207,223,14,Outstanding content!,5,positive
+208,1869,13,Didn't learn anything useful.,1,positive
+209,1595,10,It was okay.,3,positive
+210,202,19,Well-paced and structured.,4,neutral
+211,1041,17,Felt like a waste of time.,1,negative
+212,1309,10,Great learning experience.,5,positive
+213,286,20,Clear explanations.,4,neutral
+214,1725,16,Average course.,3,negative
+215,616,11,Well-paced and structured.,4,neutral
+216,798,12,Well-paced and structured.,4,neutral
+217,1188,12,Didn't learn anything useful.,1,positive
+218,916,12,Hard to follow.,2,negative
+219,407,11,Great learning experience.,5,positive
+220,1004,15,Hard to follow.,2,negative
+221,1475,13,Helpful examples.,4,neutral
+222,695,18,Highly recommend.,5,positive
+223,1691,12,Very informative.,4,positive
+224,1562,16,Some parts were good.,3,positive
+225,1805,20,Didn't learn anything useful.,1,positive
+226,672,12,Needs improvement.,2,neutral
+227,1125,19,Didn't learn anything useful.,1,positive
+228,865,17,Felt like a waste of time.,1,negative
+229,1517,20,Practical tips included.,4,neutral
+230,656,12,Too fast and unclear.,2,positive
+231,1031,12,Content was outdated.,2,negative
+232,778,17,Outstanding content!,5,positive
+233,1395,15,Didn't learn anything useful.,1,positive
+234,1151,14,Could be better.,3,positive
+235,982,12,Excellent course!,5,positive
+236,1770,10,Not very engaging.,2,negative
+237,1775,18,Some parts were good.,3,positive
+238,920,10,Would not recommend.,1,neutral
+239,740,13,Helpful examples.,4,neutral
+240,875,19,Highly recommend.,5,positive
+241,717,20,Felt like a waste of time.,1,negative
+242,1310,15,Helpful examples.,4,neutral
+243,1584,18,Poor content and delivery.,1,negative
+244,415,16,Average course.,3,negative
+245,1724,19,Would not recommend.,1,neutral
+246,1685,12,Helpful examples.,4,neutral
+247,944,14,Could be better.,3,positive
+248,1180,13,Poor content and delivery.,1,negative
+249,975,17,Very informative.,4,positive
+250,1745,16,Loved the instructor!,5,positive
+251,1585,17,Poor content and delivery.,1,negative
+252,1600,14,Would not recommend.,1,neutral
+253,1660,10,Outstanding content!,5,positive
+254,1619,11,Neutral feelings.,3,neutral
+255,1671,10,Needs improvement.,2,neutral
+256,1699,12,Didn't learn anything useful.,1,positive
+257,1259,17,Practical tips included.,4,neutral
+258,1957,15,Content was outdated.,2,negative
+259,1440,19,Content was outdated.,2,negative
+260,815,10,Too fast and unclear.,2,positive
+261,402,12,Felt like a waste of time.,1,negative
+262,650,18,Hard to follow.,2,negative
+263,869,18,Hard to follow.,2,negative
+264,509,15,Could be better.,3,positive
+265,1528,13,Too fast and unclear.,2,positive
+266,1993,16,Would not recommend.,1,neutral
+267,831,10,Outstanding content!,5,positive
+268,1559,10,Terrible experience.,1,negative
+269,953,20,Needs improvement.,2,neutral
+270,1298,12,Average course.,3,negative
+271,1854,17,Highly recommend.,5,positive
+272,596,18,Content was outdated.,2,negative
+273,591,18,Poor content and delivery.,1,negative
+274,210,20,Very informative.,4,positive
+275,745,11,Helpful examples.,4,neutral
+276,1756,13,Too fast and unclear.,2,positive
+277,1992,13,Hard to follow.,2,negative
+278,337,18,Great learning experience.,5,positive
+279,1841,13,Felt like a waste of time.,1,negative
+280,491,17,Too fast and unclear.,2,positive
+281,564,20,Helpful examples.,4,neutral
+282,1187,19,Hard to follow.,2,negative
+283,292,19,Content was outdated.,2,negative
+284,1558,19,Average course.,3,negative
+285,600,10,Hard to follow.,2,negative
+286,1075,10,Great learning experience.,5,positive
+287,562,17,Neutral feelings.,3,neutral
+288,827,11,Poor content and delivery.,1,negative
+289,575,13,Great learning experience.,5,positive
+290,735,12,Highly recommend.,5,positive
+291,1953,20,Highly recommend.,5,positive
+292,527,16,Hard to follow.,2,negative
+293,690,10,Felt like a waste of time.,1,negative
+294,1723,12,Outstanding content!,5,positive
+295,584,11,Clear explanations.,4,neutral
+296,140,16,Highly recommend.,5,positive
+297,418,19,It was okay.,3,positive
+298,391,12,Didn't learn anything useful.,1,positive
+299,386,18,Could be better.,3,positive
+300,227,19,Excellent course!,5,positive
