@@ -1,0 +1,50 @@
+quiz_id,course_id,title,total_marks,pass_mark
+1,1,Statistics for Data Analysis - Quiz 1,100,40
+2,1,Statistics for Data Analysis - Quiz 2,100,40
+3,2,Deep Learning Fundamentals - Quiz 1,100,40
+4,3,"HTML, CSS, JS Essentials - Quiz 1",100,40
+5,4,Cybersecurity Essentials - Quiz 1,100,40
+6,4,Cybersecurity Essentials - Quiz 2,100,40
+7,5,Cloud Infrastructure & DevOps - Quiz 1,100,40
+8,5,Cloud Infrastructure & DevOps - Quiz 2,100,40
+9,5,Cloud Infrastructure & DevOps - Quiz 3,100,40
+10,6,Infrastructure as Code - Quiz 1,100,40
+11,7,iOS Development with Swift - Quiz 1,100,40
+12,7,iOS Development with Swift - Quiz 2,100,40
+13,8,Blockchain Basics - Quiz 1,100,40
+14,8,Blockchain Basics - Quiz 2,100,40
+15,9,Unity Game Dev - Quiz 1,100,40
+16,9,Unity Game Dev - Quiz 2,100,40
+17,9,Unity Game Dev - Quiz 3,100,40
+18,10,IoT and Cloud Integration - Quiz 1,100,40
+19,10,IoT and Cloud Integration - Quiz 2,100,40
+20,10,IoT and Cloud Integration - Quiz 3,100,40
+21,11,Data Science Bootcamp - Quiz 1,100,40
+22,11,Data Science Bootcamp - Quiz 2,100,40
+23,12,Deep Learning Fundamentals - Quiz 1,100,40
+24,13,"HTML, CSS, JS Essentials - Quiz 1",100,40
+25,14,Ethical Hacking 101 - Quiz 1,100,40
+26,14,Ethical Hacking 101 - Quiz 2,100,40
+27,14,Ethical Hacking 101 - Quiz 3,100,40
+28,15,Azure for Beginners - Quiz 1,100,40
+29,15,Azure for Beginners - Quiz 2,100,40
+30,16,CI/CD Pipelines with Jenkins - Quiz 1,100,40
+31,16,CI/CD Pipelines with Jenkins - Quiz 2,100,40
+32,17,iOS Development with Swift - Quiz 1,100,40
+33,18,Blockchain Basics - Quiz 1,100,40
+34,18,Blockchain Basics - Quiz 2,100,40
+35,19,Unity Game Dev - Quiz 1,100,40
+36,19,Unity Game Dev - Quiz 2,100,40
+37,19,Unity Game Dev - Quiz 3,100,40
+38,20,IoT and Cloud Integration - Quiz 1,100,40
+39,20,IoT and Cloud Integration - Quiz 2,100,40
+40,21,Data Science Bootcamp - Quiz 1,100,40
+41,21,Data Science Bootcamp - Quiz 2,100,40
+42,22,Neural Networks in Practice - Quiz 1,100,40
+43,23,"HTML, CSS, JS Essentials - Quiz 1",100,40
+44,23,"HTML, CSS, JS Essentials - Quiz 2",100,40
+45,23,"HTML, CSS, JS Essentials - Quiz 3",100,40
+46,24,Cybersecurity Essentials - Quiz 1,100,40
+47,25,AWS Cloud Practitioner - Quiz 1,100,40
+48,25,AWS Cloud Practitioner - Quiz 2,100,40
+49,25,AWS Cloud Practitioner - Quiz 3,100,40

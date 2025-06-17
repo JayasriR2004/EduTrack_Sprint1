@@ -1,0 +1,26 @@
+course_id,title,category,duration
+1,Statistics for Data Analysis,Data Science,99
+2,Deep Learning Fundamentals,AI,51
+3,"HTML, CSS, JS Essentials",Web Development,10
+4,Cybersecurity Essentials,Cybersecurity,70
+5,Cloud Infrastructure & DevOps,Cloud Computing,92
+6,Infrastructure as Code,DevOps,81
+7,iOS Development with Swift,Mobile App Dev,97
+8,Blockchain Basics,Blockchain,28
+9,Unity Game Dev,Game Development,65
+10,IoT and Cloud Integration,IoT,21
+11,Data Science Bootcamp,Data Science,89
+12,Deep Learning Fundamentals,AI,63
+13,"HTML, CSS, JS Essentials",Web Development,52
+14,Ethical Hacking 101,Cybersecurity,84
+15,Azure for Beginners,Cloud Computing,77
+16,CI/CD Pipelines with Jenkins,DevOps,65
+17,iOS Development with Swift,Mobile App Dev,47
+18,Blockchain Basics,Blockchain,64
+19,Unity Game Dev,Game Development,30
+20,IoT and Cloud Integration,IoT,19
+21,Data Science Bootcamp,Data Science,65
+22,Neural Networks in Practice,AI,63
+23,"HTML, CSS, JS Essentials",Web Development,13
+24,Cybersecurity Essentials,Cybersecurity,24
+25,AWS Cloud Practitioner,Cloud Computing,92

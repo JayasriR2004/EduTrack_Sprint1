@@ -1,0 +1,36 @@
+content_id,course_id,type,title,duration
+1,1,video,Lecture: Statistics for Data Analysis,30
+2,1,pdf,Notes: Statistics for Data Analysis,69
+3,2,video,Lecture: Deep Learning Fundamentals,10
+4,2,pdf,Notes: Deep Learning Fundamentals,41
+5,3,video,"Lecture: HTML, CSS, JS Essentials",5
+6,3,pdf,"Notes: HTML, CSS, JS Essentials",5
+7,4,video,Lecture: Cybersecurity Essentials,70
+8,5,video,Lecture: Cloud Infrastructure & DevOps,92
+9,6,video,Lecture: Infrastructure as Code,81
+10,7,pdf,Notes: iOS Development with Swift,97
+11,8,video,Lecture: Blockchain Basics,28
+12,9,video,Lecture: Unity Game Dev,22
+13,9,pdf,Notes: Unity Game Dev,43
+14,10,pdf,Notes: IoT and Cloud Integration,21
+15,11,video,Lecture: Data Science Bootcamp,51
+16,11,pdf,Notes: Data Science Bootcamp,38
+17,12,video,Lecture: Deep Learning Fundamentals,63
+18,13,video,"Lecture: HTML, CSS, JS Essentials",17
+19,13,pdf,"Notes: HTML, CSS, JS Essentials",35
+20,14,video,Lecture: Ethical Hacking 101,84
+21,15,pdf,Notes: Azure for Beginners,77
+22,16,video,Lecture: CI/CD Pipelines with Jenkins,33
+23,16,pdf,Notes: CI/CD Pipelines with Jenkins,32
+24,17,video,Lecture: iOS Development with Swift,47
+25,18,video,Lecture: Blockchain Basics,64
+26,19,pdf,Notes: Unity Game Dev,30
+27,20,video,Lecture: IoT and Cloud Integration,8
+28,20,pdf,Notes: IoT and Cloud Integration,11
+29,21,video,Lecture: Data Science Bootcamp,65
+30,22,video,Lecture: Neural Networks in Practice,28
+31,22,pdf,Notes: Neural Networks in Practice,35
+32,23,pdf,"Notes: HTML, CSS, JS Essentials",13
+33,24,video,Lecture: Cybersecurity Essentials,19
+34,24,pdf,Notes: Cybersecurity Essentials,5
+35,25,pdf,Notes: AWS Cloud Practitioner,92
